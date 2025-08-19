@@ -61,6 +61,11 @@ This project implements a radar system using an Arduino Uno, an ultrasonic senso
 4. Processing displays the radar-like visualization, plotting detected objects based on angle and distance.  
 
 ---
+## Demo
+You can watch the working demo of the project here:  
+[LinkedIn Project Demo]([https://www.linkedin.com/your-post-link-here](https://www.linkedin.com/posts/manas-chawla-277155325_exploring-hardware-from-the-ground-up-over-activity-7346979436623245312-DxYu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE5AzuQB8uUn1Qxu8AhspvGezZdzuErUFA4))  
+
+---
 
 ## Applications
 - Object detection and tracking  
